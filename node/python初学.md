@@ -1,10 +1,10 @@
-#python初学
+# python初学
 
-##1.注释
+## 1.注释
 
 在注释中‘#’后可为代码进行注释，提高代码可读性
 
-##2.格式化输出print 的使用格式(format的使用)
+## 2.格式化输出print 的使用格式(format的使用)
 
 ```python
 age	 =	20
@@ -53,14 +53,14 @@ ___hello___
 Swaroop	wrote	A	Byte	of	Python
 ```
 
-###因为python中两个print的使用会默认开启新一行，因此有如下解决方案
+### 因为python中两个print的使用会默认开启新一行，因此有如下解决方案
 
 ```python 
 print('a',	end='')
 print('b',	end='')
 ```
 
-###原始字符串的使用方式
+### 原始字符串的使用方式
 
 ```python
 r"Newlines	are	indicated	by	\n"
