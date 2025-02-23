@@ -290,7 +290,7 @@ Python 提供了多种内置数据结构：
 
   复制
 
-  ```
+  ```python
   class Person:
       def __init__(self, name, age):
           self.name = name
